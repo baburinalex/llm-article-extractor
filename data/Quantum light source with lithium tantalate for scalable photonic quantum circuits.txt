@@ -1,0 +1,5 @@
+    "We characterize a microring resonator on a thin-film lithium tantalate "
+    "platform. The ring radius is 60 um and the ring-to-bus coupling gap is "
+    "0.45 um. The measured free spectral range is about 350 GHz, and the "
+    "loaded quality factor of the pump mode is 1000000. Photon pairs are "
+    "generated across the telecom band from 1510 to 1570 nm."
